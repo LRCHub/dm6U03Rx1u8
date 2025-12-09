@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Shirase",
+  "base_artist": "KEIJU",
+  "createdAt": "2025-12-09T14:52:46.213970Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tsubasa Gravity (Shirase Sakuya ver.)",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/01_Tsubasa_Gravity_(Shirase_Sakuya_ver.)_シャイニーカラーズ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shirase",
+      "artist": "KEIJU",
+      "has_synced": false,
+      "path": "select/pl_01_Shirase_KEIJU.txt"
+    }
+  ]
+}
